@@ -44,8 +44,8 @@
     },
     "Message": "Data loaded."
     "Detail":{
-  "CallAds": false,
-   "Ads": [
+            "CallAds": false,
+             "Ads": [
             {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
