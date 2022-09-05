@@ -42,7 +42,7 @@
             }
         ]
     },
-    "Message": "Data loaded."
+    "Message": "Data loaded.",
     "Detail":{
             "CallAds": false,
              "Ads": [
